@@ -1,5 +1,5 @@
 # Notas Rápidas para Android
-Editor de texto avançado para Windows.
+Editor de notas rápidas e lembretes para Android.
 
 ### Tela
 
