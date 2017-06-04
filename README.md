@@ -1,12 +1,28 @@
-# Note App for Android
-Create, edit and delete reminders and notes easilly. It's available only in portuguese (pt-BR), but I'm working on it.
+# Notas Rápidas para Android
+Editor de texto avançado para Windows.
 
-### Print
+### Tela
 
 ![App screenshots](http://c1.staticflickr.com/5/4266/35058496306_f872810833_k.jpg)
 
-### Where download?
-You can download this app apk file on <a href="https://goo.gl/Iv7ty0">https://goo.gl/Iv7ty0</a>
+### Requisitos mínimos
+<ul>
+<li>Android 4.0 ou superior</li>
+<li>Conexão com a internet (recomendado)</li>
+</ul>
 
-### Be part of it!
-Send an email to <a href="mailto:marckdx@outlook.com">marckdx@outlook.com</a> to be a member of this project!
+### Funcionalidades (adicionando)
+<ul>
+<li>Adicione e exclua notas</li>
+<li>Crie lembretes</li>
+<li>Sincronizar com a nuvem¹</li>
+<li>Compartilhar lembretes¹</li>
+</ul>
+
+(¹) Funcionalidades que estão atualmente em desenvolvimento 
+
+### Onde baixar?
+Baixe o aplicativo em <a href="https://goo.gl/Iv7ty0">https://goo.gl/Iv7ty0</a>
+
+### Faça parte do projeto!
+Envie um email para <a href="mailto:marckdx@outlook.com">marckdx@outlook.com</a> e torne-se um membro deste projeto!
