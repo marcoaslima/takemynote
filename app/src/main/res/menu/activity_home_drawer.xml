@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_bulb24"
+            android:title="Notas" />
+        <item
+            android:id="@+id/nav_new"
+            android:icon="@drawable/ic_star24"
+            android:title="Nova" />
+
+        <item
+            android:id="@+id/nav_trash"
+            android:icon="@drawable/ic_trash24"
+            android:title="Lixeira" />
+
+        <item
+            android:id="@+id/nav_reminders"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="Lembretes" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Opções" />
+    </group>
+
+    <item android:title="Mais">
+        <menu>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Compartilhar" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="Sobre" />
+        </menu>
+    </item>
+
+</menu>

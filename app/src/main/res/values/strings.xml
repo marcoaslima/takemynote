@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notas rápidas</string>
+    <string name="action_settings">Opções</string>
+    <string name="prompt_content">Conteúdo da nota</string>
+    <string name="prompt_titulo">Título</string>
+    <string name="action_salvar_nota">SALVAR</string>
+    <string name="cancelar">cancelar</string>
+    <string name="title_activity_home">Notas rápidas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_reminders">RemindersActivity</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_add">Adicionar</string>
+    <string name="menu_delete">Deletar</string>
+</resources>

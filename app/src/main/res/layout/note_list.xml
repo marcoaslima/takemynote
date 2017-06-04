@@ -1,0 +1,53 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:layout_marginTop="6dp"
+    >
+
+
+    <TextView
+        android:id="@+id/txtTituloNotaLista"
+        android:layout_gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:padding="4px"
+        android:textColor="@color/colorText"
+        android:text="TextView"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txtConteudoNotaLista"
+        android:layout_gravity="center"
+        android:textColor="@color/colorText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:padding="4px"
+        android:maxLines="3"
+        android:singleLine="false"
+        android:text="TextView" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:layout_gravity="right">
+
+        <TextView
+            android:id="@+id/txtDataCriacaoLista"
+            android:layout_gravity="center"
+            android:textColor="@color/colorText"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textSize="10dp"
+            android:padding="4px"
+            android:maxLines="3"
+            android:singleLine="false"
+            android:text="00/00/0000" />
+    </LinearLayout>
+
+</LinearLayout>
